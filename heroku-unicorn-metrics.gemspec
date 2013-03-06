@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "heroku/version"
+require "heroku/unicorn_metrics/version"
 
 Gem::Specification.new do |s|
   s.name        = "heroku-unicorn-metrics"
